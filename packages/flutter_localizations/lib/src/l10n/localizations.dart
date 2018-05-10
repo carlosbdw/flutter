@@ -524,48 +524,6 @@ class _Bundle_id extends TranslationBundle {
 }
 
 // ignore: camel_case_types
-class _Bundle_id extends TranslationBundle {
-  const _Bundle_id() : super(null);
-    @override String get scriptCategory => r'English-like';
-  @override String get timeOfDayFormat => r'h:mm a';
-  @override String get openAppDrawerTooltip => r'Open navigation menu';
-  @override String get backButtonTooltip => r'Kembali';
-  @override String get closeButtonTooltip => r'Tutup';
-  @override String get deleteButtonTooltip => r'Hapus';
-  @override String get nextMonthTooltip => r'Bulan selanjutnya';
-  @override String get previousMonthTooltip => r'Bulan sebelumnya';
-  @override String get nextPageTooltip => r'Halaman selanjutnya';
-  @override String get previousPageTooltip => r'Halaman sebelumnya';
-  @override String get showMenuTooltip => r'Show menu';
-  @override String get aboutListTileTitle => r'Tentang $applicationName';
-  @override String get licensesPageTitle => r'Licenses';
-  @override String get pageRowsInfoTitle => r'$firstRow–$lastRow of $rowCount';
-  @override String get pageRowsInfoTitleApproximate => r'$firstRow–$lastRow of about $rowCount';
-  @override String get rowsPerPageTitle => r'Rows per page:';
-  @override String get tabLabel => r'Tab $tabIndex of $tabCount';
-  @override String get selectedRowCountTitleZero => r'No items selected';
-  @override String get selectedRowCountTitleOne => r'1 item selected';
-  @override String get selectedRowCountTitleOther => r'$selectedRowCount items selected';
-  @override String get cancelButtonLabel => r'Batal';
-  @override String get closeButtonLabel => r'Tutup';
-  @override String get continueButtonLabel => r'Melanjutkan';
-  @override String get copyButtonLabel => r'SALIN';
-  @override String get cutButtonLabel => r'Potong';
-  @override String get okButtonLabel => r'Oke';
-  @override String get pasteButtonLabel => r'Tempel';
-  @override String get selectAllButtonLabel => r'Pilih semua';
-  @override String get viewLicensesButtonLabel => r'Lihat lisensi';
-  @override String get anteMeridiemAbbreviation => r'AM';
-  @override String get postMeridiemAbbreviation => r'PM';
-  @override String get timePickerHourModeAnnouncement => r'Pilih jam';
-  @override String get timePickerMinuteModeAnnouncement => r'Pilih menit';
-  @override String get modalBarrierDismissLabel => r'Berhentikan';
-  @override String get signedInLabel => r'Signed in';
-  @override String get hideAccountsLabel => r'Hide accounts';
-  @override String get showAccountsLabel => r'Show accounts';
-}
-
-// ignore: camel_case_types
 class _Bundle_it extends TranslationBundle {
   const _Bundle_it() : super(null);
   @override String get scriptCategory => r'English-like';
@@ -1768,48 +1726,6 @@ class _Bundle_pt_PT extends TranslationBundle {
   @override String get anteMeridiemAbbreviation => r'AM';
   @override String get postMeridiemAbbreviation => r'PM';
   @override String get modalBarrierDismissLabel => r'Ignorar';
-}
-
-// ignore: camel_case_types
-class _Bundle_vi extends TranslationBundle {
-  const _Bundle_vi() : super(null);
-  @override String get scriptCategory => r'English-like';
-  @override String get timeOfDayFormat => r'h:mm a';
-  @override String get openAppDrawerTooltip => r'Open navigation menu';
-  @override String get backButtonTooltip => r'Quay lại';
-  @override String get closeButtonTooltip => r'Đóng';
-  @override String get deleteButtonTooltip => r'Xóa';
-  @override String get nextMonthTooltip => r'Tháng sau';
-  @override String get previousMonthTooltip => r'Tháng trước';
-  @override String get nextPageTooltip => r'Trang sau';
-  @override String get previousPageTooltip => r'Trang trước';
-  @override String get showMenuTooltip => r'Show menu';
-  @override String get aboutListTileTitle => r'Giới thiệu về $applicationName';
-  @override String get licensesPageTitle => r'Licenses';
-  @override String get pageRowsInfoTitle => r'$firstRow–$lastRow of $rowCount';
-  @override String get pageRowsInfoTitleApproximate => r'$firstRow–$lastRow of about $rowCount';
-  @override String get rowsPerPageTitle => r'Rows per page:';
-  @override String get tabLabel => r'Tab $tabIndex of $tabCount';
-  @override String get selectedRowCountTitleZero => r'No items selected';
-  @override String get selectedRowCountTitleOne => r'1 item selected';
-  @override String get selectedRowCountTitleOther => r'$selectedRowCount items selected';
-  @override String get cancelButtonLabel => r'Hủy';
-  @override String get closeButtonLabel => r'Đóng';
-  @override String get continueButtonLabel => r'Tiếp tục';
-  @override String get copyButtonLabel => r'Sao chép';
-  @override String get cutButtonLabel => r'Cắt';
-  @override String get okButtonLabel => r'Đồng ý';
-  @override String get pasteButtonLabel => r'Dán';
-  @override String get selectAllButtonLabel => r'Chọn tất cả';
-  @override String get viewLicensesButtonLabel => r'Xem giấy phép';
-  @override String get anteMeridiemAbbreviation => r'Sáng';
-  @override String get postMeridiemAbbreviation => r'Chiều';
-  @override String get timePickerHourModeAnnouncement => r'Chọn giờ';
-  @override String get timePickerMinuteModeAnnouncement => r'Chọn phút';
-  @override String get modalBarrierDismissLabel => r'Hủy';
-  @override String get signedInLabel => r'Signed in';
-  @override String get hideAccountsLabel => r'Hide accounts';
-  @override String get showAccountsLabel => r'Show accounts';
 }
 
 // ignore: camel_case_types
