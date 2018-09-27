@@ -6954,7 +6954,7 @@ const Map<String, dynamic> dateSymbols = <String, dynamic>{
       r'''ไตรมาส 3''',
       r'''ไตรมาส 4'''
     ],
-    'AMPMS': <dynamic>[r'''ก่อนเที่ยง''', r'''หลังเที่ยง'''],
+    'AMPMS': <dynamic>[r'''AM''', r'''PM'''],
     'DATEFORMATS': <dynamic>[
       r'''EEEEที่ d MMMM G y''',
       r'''d MMMM G y''',
@@ -7751,32 +7751,32 @@ const Map<String, dynamic> dateSymbols = <String, dynamic>{
       r'''Tháng 12'''
     ],
     'SHORTMONTHS': <dynamic>[
-      r'''thg 1''',
-      r'''thg 2''',
-      r'''thg 3''',
-      r'''thg 4''',
-      r'''thg 5''',
-      r'''thg 6''',
-      r'''thg 7''',
-      r'''thg 8''',
-      r'''thg 9''',
-      r'''thg 10''',
-      r'''thg 11''',
-      r'''thg 12'''
+      r'''Th01''',
+      r'''Th02''',
+      r'''Th03''',
+      r'''Th04''',
+      r'''Th05''',
+      r'''Th06''',
+      r'''Th07''',
+      r'''Th08''',
+      r'''Th09''',
+      r'''Th10''',
+      r'''Th11''',
+      r'''Th12'''
     ],
     'STANDALONESHORTMONTHS': <dynamic>[
-      r'''Thg 1''',
-      r'''Thg 2''',
-      r'''Thg 3''',
-      r'''Thg 4''',
-      r'''Thg 5''',
-      r'''Thg 6''',
-      r'''Thg 7''',
-      r'''Thg 8''',
-      r'''Thg 9''',
-      r'''Thg 10''',
-      r'''Thg 11''',
-      r'''Thg 12'''
+      r'''Th01''',
+      r'''Th02''',
+      r'''Th03''',
+      r'''Th04''',
+      r'''Th05''',
+      r'''Th06''',
+      r'''Th07''',
+      r'''Th08''',
+      r'''Th09''',
+      r'''Th10''',
+      r'''Th11''',
+      r'''Th12'''
     ],
     'WEEKDAYS': <dynamic>[
       r'''Chủ Nhật''',
@@ -7798,21 +7798,21 @@ const Map<String, dynamic> dateSymbols = <String, dynamic>{
     ],
     'SHORTWEEKDAYS': <dynamic>[
       r'''CN''',
-      r'''Th 2''',
-      r'''Th 3''',
-      r'''Th 4''',
-      r'''Th 5''',
-      r'''Th 6''',
-      r'''Th 7'''
+      r'''T2''',
+      r'''T3''',
+      r'''T4''',
+      r'''T5''',
+      r'''T6''',
+      r'''T7'''
     ],
     'STANDALONESHORTWEEKDAYS': <dynamic>[
       r'''CN''',
-      r'''Th 2''',
-      r'''Th 3''',
-      r'''Th 4''',
-      r'''Th 5''',
-      r'''Th 6''',
-      r'''Th 7'''
+      r'''T2''',
+      r'''T3''',
+      r'''T4''',
+      r'''T5''',
+      r'''T6''',
+      r'''T7'''
     ],
     'NARROWWEEKDAYS': <dynamic>[
       r'''CN''',
@@ -7844,7 +7844,7 @@ const Map<String, dynamic> dateSymbols = <String, dynamic>{
       r'''Quý 3''',
       r'''Quý 4'''
     ],
-    'AMPMS': <dynamic>[r'''SA''', r'''CH'''],
+    'AMPMS': <dynamic>[r'''AM''', r'''PM'''],
     'DATEFORMATS': <dynamic>[
       r'''EEEE, d MMMM, y''',
       r'''d MMMM, y''',
